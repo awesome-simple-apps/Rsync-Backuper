@@ -1,4 +1,4 @@
-# Release Notes
+# Release Notes.
 
 ### 2015-10-15
 
